@@ -7,4 +7,5 @@
  */
 
 import LazyLoad from "./lib/LazyLoad.mjs";
+
 export default LazyLoad;
