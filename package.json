@@ -1,6 +1,6 @@
 {
   "name": "@itpeople/lazy-load",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lazy Loading images and other (JS, etc.) using Intersection Observer with polyfill",
   "main": "index.mjs",
   "directories": {
