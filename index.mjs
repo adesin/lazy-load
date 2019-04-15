@@ -6,5 +6,5 @@
  * @link https://itpeople.ru/
  */
 
-import LazyLoad from "./lib/LazyLoad";
+import LazyLoad from "./lib/LazyLoad.mjs";
 export default LazyLoad;
