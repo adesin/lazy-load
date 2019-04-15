@@ -42,6 +42,14 @@ const lazyLoad = new LazyLoad();
 <div class="js-lazy-load" data-bg="image-2.jpg"></div>
 ```
 
+## Принудительная загрузка
+
+Пример принудительной загрузки всех изображений внутри заданного контейнера
+
+```js
+lazyLoad.loadContainer(document.querySelector('.some-container'));
+```
+
 ## Отложенная загрузка js-кода
 
 Возможна также отложенная загрузка JS-кода, для этого необходимо загрузить модуль динамически.
