@@ -1,0 +1,33 @@
+{
+  "name": "@itpeople/lazy-load",
+  "version": "1.0.0",
+  "description": "Lazy Loading images and other (JS, etc.) using Intersection Observer with polyfill",
+  "main": "index.mjs",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "intersection-observer": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adesin/lazy-load.git"
+  },
+  "keywords": [
+    "lazy",
+    "load",
+    "intersection",
+    "observer",
+    "itpeople"
+  ],
+  "author": "Anton Desin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adesin/lazy-load/issues"
+  },
+  "homepage": "https://github.com/adesin/lazy-load#readme"
+}
